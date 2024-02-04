@@ -1,0 +1,4 @@
+baseURL = 'https://sambarros.github.io/'
+languageCode = 'en-us'
+title = 'Sam Barros Blog'
+theme="bilberry-hugo-theme"

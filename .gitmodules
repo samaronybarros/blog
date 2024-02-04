@@ -1,0 +1,4 @@
+[submodule "sambarrosblog/public"]
+	path = sambarrosblog/public
+	url = https://github.com/samaronybarros/sambarros.github.io
+	branch = main
