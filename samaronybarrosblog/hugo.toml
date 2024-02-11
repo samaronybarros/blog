@@ -1,4 +1,4 @@
 baseURL = 'https://samaronybarros.github.io/'
 languageCode = 'en-us'
-title = 'Sam Barros Blog'
+title = 'Samarony Barros Blog'
 theme="contrast-hugo"
