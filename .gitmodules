@@ -1,7 +1,3 @@
-[submodule "sambarrosblog/public"]
-	path = sambarrosblog/public
-	url = https://github.com/samaronybarros/sambarros.github.io
-	branch = main
 [submodule "samaronybarrosblog/public"]
 	path = samaronybarrosblog/public
 	url = git@github.com:samaronybarros/samaronybarros.github.io.git
