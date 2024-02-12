@@ -1,12 +1,12 @@
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/hugo-sid"
+url = "https://github.com/samaronybarros"
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
+name = "linkedin"
+url = "https://www.linkedin.com/in/sam-barros/"
 
 [[params.socialIcons]]
-name = "Rss"
-url = "index.xml"
+name = "medium"
+url = "https://medium.com/@samarony.barros"
 

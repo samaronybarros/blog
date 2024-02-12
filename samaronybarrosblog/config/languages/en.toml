@@ -48,10 +48,10 @@
   # By default (or if nothing is specified), summary is used.
 
 [Languages.en-gb.params.author]
-  avatar = "avatar.jpeg" # put the file in assets folder; also ensure that image has same height and width
+  avatar = "[avatar]" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Sam Barros Blog"
-  name = "Sam Barros"
+  intro = "[introDescription]"
+  name = "[authorName]"
   description = "Hey there, I'm Sam, your friendly neighborhood code wizard! Join me on my blog as I share tales of tech triumphs and agile adventures. From Ruby rookie to NodeJS ninja, let's dive into the world of software sorcery together! 🚀"
 
 # Allow to override webmanifest options
