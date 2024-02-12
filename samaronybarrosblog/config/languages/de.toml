@@ -25,7 +25,7 @@
     weight = 30
 
 [Languages.de-de.params]
-  sitename = "Awesome hugo blog"
+  sitename = "Sam Barros Blog"
   defaultColor = "[defaultColor]" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
@@ -48,11 +48,11 @@
   # By default (or if nothing is specified), summary is used.
 
 [Languages.de-de.params.author]
-  avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
+  avatar = "[avatar]" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
-  description = "Ein schnelles, minimalistisches Hugo-Theme mit hellem und dunklem Modus, für eine persönliche Website oder Blog."
+  intro = "[introDescription]"
+  name = "[authorName]"
+  description = "Hallo, ich bin Sam, dein freundlicher Nachbarschaftscode-Zauberer! Begleite mich auf meinem Blog, während ich Geschichten von technischen Triumphen und agilen Abenteuern teile. Vom Ruby-Anfänger zum NodeJS-Ninja - lass uns gemeinsam in die Welt der Software-Zauberei eintauchen! 🚀"
 
 # Allow to override webmanifest options
 [Languages.de-de.params.webmanifest]

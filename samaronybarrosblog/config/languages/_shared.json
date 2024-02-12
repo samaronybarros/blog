@@ -1,4 +1,7 @@
 {
     "contentDir": "content",
-    "defaultColor": "dark"
+    "defaultColor": "dark",
+    "avatar": "avatar.jpeg",
+    "introDescription": "Sam Barros Blog",
+    "authorName": "Sam Barros"
 }
